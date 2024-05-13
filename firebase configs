@@ -1,0 +1,12 @@
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyBZlNGYCqIXpQSenj6gjk9Cz4HQ8rgg1VY",
+  authDomain: "plp-apps-75c11.firebaseapp.com",
+  projectId: "plp-apps-75c11",
+  storageBucket: "plp-apps-75c11.appspot.com",
+  messagingSenderId: "804276420403",
+  appId: "1:804276420403:web:8863fec831c636042c4846"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig)
